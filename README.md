@@ -1,7 +1,7 @@
 *This is not an official Google product*
 
 # XAI-for-practitioners
-Code for the upcoming O'Reilly book on Explainability methods for the ML practitioner.
+Code for the O'Reilly book on Explainability methods for the ML practitioner.
 
 ### Title: Explainable AI for Practitioners
 
